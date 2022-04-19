@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **this Github account**
 
-- 📫 How to reach me **aniketkeshri1309@gmail.com**
+- 📫 Get in touch **aniketkeshri1309@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
