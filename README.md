@@ -2,10 +2,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aniket</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 ## 🙋‍♂️ About Me
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 - 🔭 I’m currently working on a food delivery website.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and Mern**
