@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aniket <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <h3 align="center">I'm a computer science student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building software.</h3>
-## 🙋‍♂️ About Me
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on a food delivery website.
 
