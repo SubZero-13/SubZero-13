@@ -6,13 +6,13 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a food delivery website.
+- 🔭 I’m currently a CS student at AKTU.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Mern**
+- 🌱 I’m currently learning  backend web development using **NodeJS, ExpressJS and MongoDB.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **this Github account**
+- 👨‍💻 I’m looking for a **software development Roles.** 
 
 - 📫 Get in touch **@aniketkeshri1309@gmail.com**
 
